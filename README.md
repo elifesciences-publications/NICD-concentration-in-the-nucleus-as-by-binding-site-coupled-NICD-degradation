@@ -1,0 +1,1 @@
+### This code is associated with the paper from Kuang, Golan et al., "Enhancer architecture sensitizes cell specific responses to _Notch_ gene dose via a bind and discard mechanism".  eLife, 2020. http://doi.org/10.7554/eLife.53659
